@@ -1,2 +1,2 @@
-# credittp-app
+# LeaningReact
 Created with CodeSandbox
